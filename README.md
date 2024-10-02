@@ -1,6 +1,6 @@
 Prazer, Leonardo
 
-- 🔭 Estudando Back-End
+- 🔭 Estudando Back-End e Front-End
 - 🌱 Cursando Bacharel em Ciência da Computação no Instituto Mauá de Tecnologia
 - 📫 Contate-me no email: leonardotbelo@gmail.com
 
