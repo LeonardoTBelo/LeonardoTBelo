@@ -1,7 +1,7 @@
-Prazer, Leonardo
+Prazer, me chamo Leonardo
 
-- 🔭 Estudando Back-End e Front-End
 - 🌱 Cursando Bacharel em Ciência da Computação no Instituto Mauá de Tecnologia
+- 🔒 Cursando Bacharel em Cybersegurança na Fontys University of Applied Science
 - 📫 Contate-me no email: leonardotbelo@gmail.com
 
   [![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoTBelo&show_icons=true&theme=holi&include_all_commits=true&count_private=true)](https://github.com/LeonardoTBelo/github-readme-stats)
